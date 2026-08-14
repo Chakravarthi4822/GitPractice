@@ -3,3 +3,4 @@ Hey hie this my first day of learning git
 I thought git is easy to understand
 But really this is not easy
 But its ok to be useless
+finally bye
