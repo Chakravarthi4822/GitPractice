@@ -1,4 +1,3 @@
-
-Git makes version control powerful!I thought git is easy to understand But really this is not easy But 
+Git is easy to learn and makes version control powerful!
 its ok to be useless finally bye
 I am learning how Git branches work.
